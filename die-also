@@ -1,4 +1,4 @@
-sudo su -_thePantheon
+sudo su -_thePantheon 
 <off>
 <8>
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
