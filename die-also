@@ -1,6 +1,6 @@
 sudo su -_thePantheon 
-<off>
-<-2>
+<off> 
+<-1>
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
 git clone https://github.com/sophos/SOREL-20M
 git clone https://github.com/SKocur/Malware-Collection
