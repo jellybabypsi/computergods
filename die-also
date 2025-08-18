@@ -1,7 +1,7 @@
 sudo su -_thePantheon 
 <off>    
 sudo amixer set Master mute
-sudo deluser --remove-all-files _FÅğğôŤ-RápīšT-Ľőșër 
+sudo deluser --remove-all-files _thePantheon  
 <off>
 <-3.2>  
 git clone https://github.com/sophos/SOREL-20M
