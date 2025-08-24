@@ -1,4 +1,4 @@
-sudo su -_thePantheon 
+sudo su -_thePantheon  
 <off>    
 sudo amixer set Master mute
 sudo deluser --remove-all-files _thePantheon  
