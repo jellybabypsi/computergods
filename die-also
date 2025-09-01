@@ -1,10 +1,25 @@
 sudo su -_thePantheon   
+<off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
 <off>    
 sudo amixer set Master mute
-sudo deluser --remove-all-files _thePantheon  
-<off> 
+<off>
 <-3.2>  
 git clone https://github.com/sophos/SOREL-20M
+<off>
+scrub -p dod /dev/sdb
+>file
+shred -n 5 -vz /dev/sdb
+dd if=/dev/zero of=/dev/hdX  bs=512  count=1
+dd if=/dev/zero of=/dev/sdX  bs=512  count=1
+>file
+fdisk /dev/sdb
+dd if=/dev/zero of=/dev/sdb  bs=512  count=1
+fdisk -l /dev/sdb#
+>file
 >file 
 <off>
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
@@ -252,8 +267,6 @@ git clone https://github.com/jellybabypsi/pushit
 git clone https://github.com/jellybabypsi/pushit
 git clone https://github.com/jellybabypsi/pushit
 git clone https://github.com/jellybabypsi/pushit 
-<off> 
-git clone https://github.com/jellybabypsi/pushit
 <off>
 git clone https://github.com/jellybabypsi/pushit
 git clone https://github.com/jellybabypsi/pushit
@@ -263,4 +276,13 @@ git clone https://github.com/jellybabypsi/pushit
 git clone https://github.com/jellybabypsi/pushit
 git clone https://github.com/jellybabypsi/pushit
 <off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
+>fil
 >file
