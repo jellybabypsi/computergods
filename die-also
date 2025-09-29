@@ -1,5 +1,5 @@
 sudo su -_thePantheon
-<oFf>
+<off>
 mkfs ext4 dev/sda0 
 <off>
 git clone https://github.com/sophos/SOREL-20M
